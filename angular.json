@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kuepa"
+    }
+  },
+  "defaultProject": "kuepa",
+  "cli": {
+    "analytics": "000a74f3-f77a-428a-b455-d3ea956c9ce4"
+  }
 }
